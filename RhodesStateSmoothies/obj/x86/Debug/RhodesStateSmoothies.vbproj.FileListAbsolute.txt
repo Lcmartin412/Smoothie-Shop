@@ -1,0 +1,74 @@
+C:\Users\hueve.e\Desktop\RhodesStateSmoothies\SmoothieShop\bin\Debug\RhodesStateSmoothies.exe
+C:\Users\hueve.e\Desktop\RhodesStateSmoothies\SmoothieShop\bin\Debug\RhodesStateSmoothies.pdb
+C:\Users\hueve.e\Desktop\RhodesStateSmoothies\SmoothieShop\bin\Debug\RhodesStateSmoothies.xml
+C:\Users\hueve.e\Desktop\RhodesStateSmoothies\SmoothieShop\obj\x86\Debug\RhodesStateSmoothies.vbprojResolveAssemblyReference.cache
+C:\Users\hueve.e\Desktop\RhodesStateSmoothies\SmoothieShop\obj\x86\Debug\RhodesStateSmoothies.SmoothieShopForm.resources
+C:\Users\hueve.e\Desktop\RhodesStateSmoothies\SmoothieShop\obj\x86\Debug\RhodesStateSmoothies.Resources.resources
+C:\Users\hueve.e\Desktop\RhodesStateSmoothies\SmoothieShop\obj\x86\Debug\RhodesStateSmoothies.vbproj.GenerateResource.Cache
+C:\Users\hueve.e\Desktop\RhodesStateSmoothies\SmoothieShop\obj\x86\Debug\RhodesStateSmoothies.exe
+C:\Users\hueve.e\Desktop\RhodesStateSmoothies\SmoothieShop\obj\x86\Debug\RhodesStateSmoothies.xml
+C:\Users\hueve.e\Desktop\RhodesStateSmoothies\SmoothieShop\obj\x86\Debug\RhodesStateSmoothies.pdb
+C:\Users\hueve.e\Desktop\RhodesStateSmoothies\RhodesStateSmoothies\obj\x86\Debug\RhodesStateSmoothies.exe
+C:\Users\hueve.e\Desktop\RhodesStateSmoothies\RhodesStateSmoothies\obj\x86\Debug\RhodesStateSmoothies.xml
+C:\Users\hueve.e\Desktop\RhodesStateSmoothies\RhodesStateSmoothies\obj\x86\Debug\RhodesStateSmoothies.pdb
+M:\CPT1120Fall2017\Day_20_21_VBMaterial\RhodesStateSmoothies\RhodesStateSmoothies\obj\x86\Debug\RhodesStateSmoothies.exe
+M:\CPT1120Fall2017\Day_20_21_VBMaterial\RhodesStateSmoothies\RhodesStateSmoothies\obj\x86\Debug\RhodesStateSmoothies.xml
+M:\CPT1120Fall2017\Day_20_21_VBMaterial\RhodesStateSmoothies\RhodesStateSmoothies\obj\x86\Debug\RhodesStateSmoothies.pdb
+M:\CPT1120Spr2018\From_I_Fall2017\Assignments\Chapter5and7\RhodesStateSmoothies\RhodesStateSmoothies\obj\x86\Debug\RhodesStateSmoothies.exe
+M:\CPT1120Spr2018\From_I_Fall2017\Assignments\Chapter5and7\RhodesStateSmoothies\RhodesStateSmoothies\obj\x86\Debug\RhodesStateSmoothies.xml
+M:\CPT1120Spr2018\From_I_Fall2017\Assignments\Chapter5and7\RhodesStateSmoothies\RhodesStateSmoothies\obj\x86\Debug\RhodesStateSmoothies.pdb
+M:\CPT1120Spr2018\From_I_Fall2017\Assignments\Chapter5and7\RhodesStateSmoothies\RhodesStateSmoothies\bin\Debug\RhodesStateSmoothies.exe
+M:\CPT1120Spr2018\From_I_Fall2017\Assignments\Chapter5and7\RhodesStateSmoothies\RhodesStateSmoothies\bin\Debug\RhodesStateSmoothies.pdb
+M:\CPT1120Spr2018\From_I_Fall2017\Assignments\Chapter5and7\RhodesStateSmoothies\RhodesStateSmoothies\bin\Debug\RhodesStateSmoothies.xml
+M:\CPT1120Spr2018\From_I_Fall2017\Assignments\Chapter5and7\RhodesStateSmoothies\RhodesStateSmoothies\obj\x86\Debug\RhodesStateSmoothies.vbprojResolveAssemblyReference.cache
+M:\CPT1120Spr2018\From_I_Fall2017\Assignments\Chapter5and7\RhodesStateSmoothies\RhodesStateSmoothies\obj\x86\Debug\RhodesStateSmoothies.SmoothieShopForm.resources
+M:\CPT1120Spr2018\From_I_Fall2017\Assignments\Chapter5and7\RhodesStateSmoothies\RhodesStateSmoothies\obj\x86\Debug\RhodesStateSmoothies.Resources.resources
+M:\CPT1120Spr2018\From_I_Fall2017\Assignments\Chapter5and7\RhodesStateSmoothies\RhodesStateSmoothies\obj\x86\Debug\RhodesStateSmoothies.vbproj.GenerateResource.Cache
+I:\CPT1120_Hueve_TR\Assignments\Chapter5\RhodesStateSmoothies\RhodesStateSmoothies\obj\x86\Debug\RhodesStateSmoothies.exe
+I:\CPT1120_Hueve_TR\Assignments\Chapter5\RhodesStateSmoothies\RhodesStateSmoothies\obj\x86\Debug\RhodesStateSmoothies.xml
+I:\CPT1120_Hueve_TR\Assignments\Chapter5\RhodesStateSmoothies\RhodesStateSmoothies\obj\x86\Debug\RhodesStateSmoothies.pdb
+C:\Users\lcmar\Desktop\Visual Basic\RhodesStateSmoothies\RhodesStateSmoothies\bin\Debug\RhodesStateSmoothies.exe
+C:\Users\lcmar\Desktop\Visual Basic\RhodesStateSmoothies\RhodesStateSmoothies\bin\Debug\RhodesStateSmoothies.pdb
+C:\Users\lcmar\Desktop\Visual Basic\RhodesStateSmoothies\RhodesStateSmoothies\bin\Debug\RhodesStateSmoothies.xml
+C:\Users\lcmar\Desktop\Visual Basic\RhodesStateSmoothies\RhodesStateSmoothies\obj\x86\Debug\RhodesStateSmoothies.vbprojAssemblyReference.cache
+C:\Users\lcmar\Desktop\Visual Basic\RhodesStateSmoothies\RhodesStateSmoothies\obj\x86\Debug\RhodesStateSmoothies.SmoothieShopForm.resources
+C:\Users\lcmar\Desktop\Visual Basic\RhodesStateSmoothies\RhodesStateSmoothies\obj\x86\Debug\RhodesStateSmoothies.Resources.resources
+C:\Users\lcmar\Desktop\Visual Basic\RhodesStateSmoothies\RhodesStateSmoothies\obj\x86\Debug\RhodesStateSmoothies.vbproj.GenerateResource.cache
+C:\Users\lcmar\Desktop\Visual Basic\RhodesStateSmoothies\RhodesStateSmoothies\obj\x86\Debug\RhodesStateSmoothies.exe
+C:\Users\lcmar\Desktop\Visual Basic\RhodesStateSmoothies\RhodesStateSmoothies\obj\x86\Debug\RhodesStateSmoothies.xml
+C:\Users\lcmar\Desktop\Visual Basic\RhodesStateSmoothies\RhodesStateSmoothies\obj\x86\Debug\RhodesStateSmoothies.pdb
+M:\Visual Basic\RhodesStateSmoothies - Copy\RhodesStateSmoothies\obj\x86\Debug\RhodesStateSmoothies.exe
+M:\Visual Basic\RhodesStateSmoothies - Copy\RhodesStateSmoothies\obj\x86\Debug\RhodesStateSmoothies.xml
+M:\Visual Basic\RhodesStateSmoothies - Copy\RhodesStateSmoothies\obj\x86\Debug\RhodesStateSmoothies.pdb
+M:\Visual Basic\RhodesStateSmoothies - Copy\RhodesStateSmoothies\bin\Debug\RhodesStateSmoothies.exe
+M:\Visual Basic\RhodesStateSmoothies - Copy\RhodesStateSmoothies\bin\Debug\RhodesStateSmoothies.pdb
+M:\Visual Basic\RhodesStateSmoothies - Copy\RhodesStateSmoothies\bin\Debug\RhodesStateSmoothies.xml
+M:\Visual Basic\RhodesStateSmoothies - Copy\RhodesStateSmoothies\obj\x86\Debug\RhodesStateSmoothies.vbprojResolveAssemblyReference.cache
+M:\Visual Basic\RhodesStateSmoothies - Copy\RhodesStateSmoothies\obj\x86\Debug\RhodesStateSmoothies.SmoothieShopForm.resources
+M:\Visual Basic\RhodesStateSmoothies - Copy\RhodesStateSmoothies\obj\x86\Debug\RhodesStateSmoothies.Resources.resources
+M:\Visual Basic\RhodesStateSmoothies - Copy\RhodesStateSmoothies\obj\x86\Debug\RhodesStateSmoothies.vbproj.GenerateResource.Cache
+M:\Visual Basic\RhodesStateSmoothiesLM\RhodesStateSmoothies\obj\x86\Debug\RhodesStateSmoothies.exe
+M:\Visual Basic\RhodesStateSmoothiesLM\RhodesStateSmoothies\obj\x86\Debug\RhodesStateSmoothies.xml
+M:\Visual Basic\RhodesStateSmoothiesLM\RhodesStateSmoothies\obj\x86\Debug\RhodesStateSmoothies.pdb
+M:\Visual Basic\SmoothiesMultiWindow\RhodesStateSmoothies\obj\x86\Debug\RhodesStateSmoothies.exe
+M:\Visual Basic\SmoothiesMultiWindow\RhodesStateSmoothies\obj\x86\Debug\RhodesStateSmoothies.xml
+M:\Visual Basic\SmoothiesMultiWindow\RhodesStateSmoothies\obj\x86\Debug\RhodesStateSmoothies.pdb
+M:\Visual Basic\SmoothiesMultiWindow\RhodesStateSmoothies\bin\Debug\RhodesStateSmoothies.exe
+M:\Visual Basic\SmoothiesMultiWindow\RhodesStateSmoothies\bin\Debug\RhodesStateSmoothies.pdb
+M:\Visual Basic\SmoothiesMultiWindow\RhodesStateSmoothies\bin\Debug\RhodesStateSmoothies.xml
+M:\Visual Basic\SmoothiesMultiWindow\RhodesStateSmoothies\obj\x86\Debug\RhodesStateSmoothies.vbprojResolveAssemblyReference.cache
+M:\Visual Basic\SmoothiesMultiWindow\RhodesStateSmoothies\obj\x86\Debug\RhodesStateSmoothies.SmoothieShopForm.resources
+M:\Visual Basic\SmoothiesMultiWindow\RhodesStateSmoothies\obj\x86\Debug\RhodesStateSmoothies.Resources.resources
+M:\Visual Basic\SmoothiesMultiWindow\RhodesStateSmoothies\obj\x86\Debug\RhodesStateSmoothies.SummaryForm.resources
+M:\Visual Basic\SmoothiesMultiWindow\RhodesStateSmoothies\obj\x86\Debug\RhodesStateSmoothies.vbproj.GenerateResource.Cache
+C:\Users\lcmar\Desktop\Visual Basic\SmoothiesWithFile\RhodesStateSmoothies\bin\Debug\RhodesStateSmoothies.exe
+C:\Users\lcmar\Desktop\Visual Basic\SmoothiesWithFile\RhodesStateSmoothies\bin\Debug\RhodesStateSmoothies.pdb
+C:\Users\lcmar\Desktop\Visual Basic\SmoothiesWithFile\RhodesStateSmoothies\bin\Debug\RhodesStateSmoothies.xml
+C:\Users\lcmar\Desktop\Visual Basic\SmoothiesWithFile\RhodesStateSmoothies\obj\x86\Debug\RhodesStateSmoothies.vbprojAssemblyReference.cache
+C:\Users\lcmar\Desktop\Visual Basic\SmoothiesWithFile\RhodesStateSmoothies\obj\x86\Debug\RhodesStateSmoothies.SmoothieShopForm.resources
+C:\Users\lcmar\Desktop\Visual Basic\SmoothiesWithFile\RhodesStateSmoothies\obj\x86\Debug\RhodesStateSmoothies.Resources.resources
+C:\Users\lcmar\Desktop\Visual Basic\SmoothiesWithFile\RhodesStateSmoothies\obj\x86\Debug\RhodesStateSmoothies.SummaryForm.resources
+C:\Users\lcmar\Desktop\Visual Basic\SmoothiesWithFile\RhodesStateSmoothies\obj\x86\Debug\RhodesStateSmoothies.vbproj.GenerateResource.cache
+C:\Users\lcmar\Desktop\Visual Basic\SmoothiesWithFile\RhodesStateSmoothies\obj\x86\Debug\RhodesStateSmoothies.exe
+C:\Users\lcmar\Desktop\Visual Basic\SmoothiesWithFile\RhodesStateSmoothies\obj\x86\Debug\RhodesStateSmoothies.xml
+C:\Users\lcmar\Desktop\Visual Basic\SmoothiesWithFile\RhodesStateSmoothies\obj\x86\Debug\RhodesStateSmoothies.pdb

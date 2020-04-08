@@ -1,0 +1,23 @@
+C:\Users\hueve.e\AppData\Local\Temporary Projects\SmoothieShop\bin\Debug\SmoothieShop.exe
+C:\Users\hueve.e\AppData\Local\Temporary Projects\SmoothieShop\bin\Debug\SmoothieShop.pdb
+C:\Users\hueve.e\AppData\Local\Temporary Projects\SmoothieShop\bin\Debug\SmoothieShop.xml
+C:\Users\hueve.e\AppData\Local\Temporary Projects\SmoothieShop\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\hueve.e\AppData\Local\Temporary Projects\SmoothieShop\obj\x86\Debug\SmoothieShop.SmoothieShopForm.resources
+C:\Users\hueve.e\AppData\Local\Temporary Projects\SmoothieShop\obj\x86\Debug\SmoothieShop.Resources.resources
+C:\Users\hueve.e\AppData\Local\Temporary Projects\SmoothieShop\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\hueve.e\AppData\Local\Temporary Projects\SmoothieShop\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\hueve.e\AppData\Local\Temporary Projects\SmoothieShop\obj\x86\Debug\SmoothieShop.exe
+C:\Users\hueve.e\AppData\Local\Temporary Projects\SmoothieShop\obj\x86\Debug\SmoothieShop.xml
+C:\Users\hueve.e\AppData\Local\Temporary Projects\SmoothieShop\obj\x86\Debug\SmoothieShop.pdb
+C:\Users\hueve.e\Desktop\SmoothieShop\SmoothieShop\obj\x86\Debug\SmoothieShop.exe
+C:\Users\hueve.e\Desktop\SmoothieShop\SmoothieShop\obj\x86\Debug\SmoothieShop.xml
+C:\Users\hueve.e\Desktop\SmoothieShop\SmoothieShop\obj\x86\Debug\SmoothieShop.pdb
+C:\Users\hueve.e\Desktop\March31VBMaterial\SmoothieShop\SmoothieShop\obj\x86\Debug\SmoothieShop.exe
+C:\Users\hueve.e\Desktop\March31VBMaterial\SmoothieShop\SmoothieShop\obj\x86\Debug\SmoothieShop.xml
+C:\Users\hueve.e\Desktop\March31VBMaterial\SmoothieShop\SmoothieShop\obj\x86\Debug\SmoothieShop.pdb
+C:\Users\hueve.e\Desktop\Day_21_VBMaterial\SmoothieShop\SmoothieShop\obj\x86\Debug\SmoothieShop.exe
+C:\Users\hueve.e\Desktop\Day_21_VBMaterial\SmoothieShop\SmoothieShop\obj\x86\Debug\SmoothieShop.xml
+C:\Users\hueve.e\Desktop\Day_21_VBMaterial\SmoothieShop\SmoothieShop\obj\x86\Debug\SmoothieShop.pdb
+C:\Users\hueve.e\Desktop\RhodesStateSmoothies\SmoothieShop\obj\x86\Debug\SmoothieShop.exe
+C:\Users\hueve.e\Desktop\RhodesStateSmoothies\SmoothieShop\obj\x86\Debug\SmoothieShop.xml
+C:\Users\hueve.e\Desktop\RhodesStateSmoothies\SmoothieShop\obj\x86\Debug\SmoothieShop.pdb
